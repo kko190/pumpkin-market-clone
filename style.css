@@ -1,0 +1,6 @@
+/* components */
+@import "components/status-bar.css";
+
+body {
+  margin: 0;
+}
