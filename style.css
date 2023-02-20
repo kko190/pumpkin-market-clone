@@ -1,6 +1,14 @@
+@import "variables.css";
 /* components */
 @import "components/status-bar.css";
+@import "components/nav-bar.css";
+
+/* home-css */
+@import "home-css/sell-page.css";
+/* local-life-css */
+@import "local-life-css/local-life.css";
 
 body {
   margin: 0;
+  height: 200vh;
 }
