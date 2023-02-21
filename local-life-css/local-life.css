@@ -34,9 +34,11 @@
 .local-life__menu-btn span:last-of-type {
   font-size: 13px;
 }
+
 .local-life__menu-bar {
   padding: 0px 10px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  overflow-x: scroll;
 }
 
 .local-life__adv-text {
