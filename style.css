@@ -7,6 +7,8 @@
 @import "home-css/sell-page.css";
 /* local-life-css */
 @import "local-life-css/local-life.css";
+/* near-info-css */
+@import "near-info-css/etc-menu.css";
 
 body {
   margin: 0;
