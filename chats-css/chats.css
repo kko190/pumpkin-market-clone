@@ -1,0 +1,13 @@
+.chats-page {
+  padding: 0px 18px;
+}
+.chats-page__list {
+  padding: 0px;
+  list-style: none;
+}
+.chats-page__list-info {
+  display: flex;
+}
+.chats-page__list-info img {
+  width: 50px;
+}
