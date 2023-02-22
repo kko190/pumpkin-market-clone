@@ -9,6 +9,8 @@
 @import "local-life-css/local-life.css";
 /* near-info-css */
 @import "near-info-css/etc-menu.css";
+@import "near-info-css/near-page__property.css";
+@import "near-info-css/part-time-job.css";
 
 body {
   margin: 0;
