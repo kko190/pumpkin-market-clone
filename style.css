@@ -13,6 +13,10 @@
 @import "near-info-css/part-time-job.css";
 /* chats-css */
 @import "chats-css/chats.css";
+/* my-pumpkin-css */
+@import "my-pumpkin-css/pumpkin-header.css";
+@import "my-pumpkin-css/my-pumpkin.css";
+
 body {
   margin: 0;
   height: 200vh;
